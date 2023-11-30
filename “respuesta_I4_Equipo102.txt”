@@ -1,25 +1,25 @@
-A
+A -  El color que quedó en el archivo html de la rama Testing es AZUL.
 
 
-B
+B - El color que quedó en el archivo html de la rama Desarrollo es AMARILLO.
 
 
-C
+C - El color que quedó en el archivo html de la rama MAIN/MASTER es AZUL.
 
 
-D
+D - Quedaron con el Favicon de ALFA.
 
 
-E
+E - Sí, BETA y GAMMA.
 
 
-F
+F - El problema que surgió fue de un Conflicto.
 
 
-G
+G - Hubo que iniciar un merge resolviendo el conflicto manualmente con un editor de codigo, de preferencia nuestra Visual Studio.
 
 
-H
+H - Si cada uno realiza push -f, lo que sucede es que actualiza el repositorio remoto con los commits del repositorio local de quien realizó ese comando perdiendo los commits anteriores del repositorio remoto.
 
 
-I
+I - Lo que se debe hacer es que cada participante al realizar el push, resuelva el conflicto agregando a lo que ya estaba lo nuevo que quiere añadir. Asi con cada uno.
